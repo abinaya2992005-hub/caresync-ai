@@ -1,1 +1,48 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f6f8;
+}
 
+.navbar{
+background:#2c3e50;
+padding:15px;
+}
+
+.navbar h2{
+color:white;
+display:inline;
+margin-right:40px;
+}
+
+.navbar a{
+color:white;
+margin-right:20px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.navbar a:hover{
+color:#1abc9c;
+}
+
+.content{
+padding:40px;
+}
+
+.card{
+background:white;
+padding:20px;
+border-radius:10px;
+width:300px;
+box-shadow:0 0 10px rgba(0,0,0,0.2);
+margin-bottom:20px;
+}
+
+button{
+background:#1abc9c;
+border:none;
+padding:10px;
+color:white;
+border-radius:5px;
+}
